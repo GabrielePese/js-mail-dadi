@@ -10,8 +10,7 @@ document.getElementById("btn").addEventListener("click", function (){
   else if (giocatore > computer) {console.log( "Ha vinto il giocatore"
 
 )}
-  else { console.log("Avete pareggiato"
-)};
+  else { console.log("Avete pareggiato")};
 
 }
 });
